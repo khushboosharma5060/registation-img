@@ -1,0 +1,52 @@
+
+ body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    /* height: 100px; */
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    top: 0;
+}
+.list{
+    list-style: none;
+    float: right;
+    margin: 15px;
+    margin-top: -20px;
+    color: rgb(255, 255, 255);
+    font-size: 1.3rem;
+    display: block;
+}
+p{
+  color: white;
+    padding-top: 10px;
+}
+/* table */
+ 
+ .container{
+     max-width: 600px;
+     background-color: white;
+     box-shadow: 3px 2px 3px rgba(1, 1,1, 0.1);
+     border: 2px solid rgb(250, 248, 248);
+     margin: auto;
+     margin-top: 100px;
+     display: flex;
+     flex-direction: column;
+     padding: 10px;
+ }
+ #submit{
+     background-color: black;
+     color: white;
+ }
+ .data{
+     height: 25px;
+
+ }
+
+ /* ragistation form */
+ 
+
+
